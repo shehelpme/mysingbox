@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "0be.xyz", "0be.net", "kcyun.org", "69yun69.com",
+        "zhoushuren.cloud", "3616666.xyz", "darkforest.cloud",
+        "5sim.net", "sms4u.vip", "jinglongyu.com", "bajie.info",
+        "bajie.one", "tagss01.pro", "goflyint.com", "degyax.com",
+        "eggtartcloud.shop", "eggtartcloud.me", "kcyun.vip"
+      ]
+    }
+  ]
+}
