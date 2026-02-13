@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "okx",
+        "okex",
+        "okcoin",
+        "oklink",
+        "okyun",
+        "okg",
+        "web3.okx"
+      ]
+    }
+  ]
+}
